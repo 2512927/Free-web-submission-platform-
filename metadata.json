@@ -1,0 +1,6 @@
+{
+  "name": "Free SEO Resources",
+  "description": "A curated collection of free web submission and SEO guides to increase website traffic and improve rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
